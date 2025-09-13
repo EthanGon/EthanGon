@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there my name is Ethan Gonzalez 👋
+
+<div>
+  SKILLS: 
+  <img src="https://img.shields.io/badge/Java-5D2F77">
+  <img src="https://img.shields.io/badge/C%23-5D2F77">
+  <img src="https://img.shields.io/badge/C++-5D2F77">
+  <img src="https://img.shields.io/badge/Python-5D2F77">
+  <img src="https://img.shields.io/badge/Unity-5D2F77">
+</div>
+
 
 <!--
 **EthanGon/EthanGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
