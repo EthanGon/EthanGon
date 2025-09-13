@@ -1,7 +1,7 @@
 ## Hi there my name is Ethan Gonzalez 👋
 
 <div>
-  SKILLS: 
+  <img src="https://img.shields.io/badge/Skills%3A-A6001E">
   <img src="https://img.shields.io/badge/Java-5D2F77">
   <img src="https://img.shields.io/badge/C%23-5D2F77">
   <img src="https://img.shields.io/badge/C++-5D2F77">
