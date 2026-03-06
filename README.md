@@ -1,4 +1,4 @@
-## Hi there my name is Ethan Gonzalez 👋
+![Header](./github-header-banner.png)
 
 <div>
   <img src="https://img.shields.io/badge/Skills%3A-A6001E">
