@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./banner.png)
 
 <div>
   <img src="https://img.shields.io/badge/Skills%3A-A6001E">
